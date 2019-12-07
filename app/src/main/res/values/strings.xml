@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Math &amp; Science Education</string>
+
+    <string name="tvName">Name</string>
+    <string name="tvEmail">Email</string>
+    <string name="tvPw">Password</string>
+    <string name="confirmPw">Confirm Password</string>
+    <string name="rbMale">Male</string>
+    <string name="rbFemale">Female</string>
+    <string name="rbOthers">Others</string>
+    <string name="tvGender">Gender</string>
+    <string name="tvContact">Contact Number</string>
+    <string name="tbDob">Date of Birth</string>
+    <string name="dob">Not Dated</string>
+    <string name="gotoRegister">Don\'t have an account? Click here to register</string>
+
+    <string name="Login">Login</string>
+    <string name="register">Register</string>
+
+    <string name="math">Mathematics</string>
+    <string name="science">Science</string>
+
+    <string-array name="mathTitle">
+        <item>Vector</item>
+        <item>Differentiation</item>
+        <item>Integration</item>
+        <item>Calculus</item>
+        <item>Function</item>
+    </string-array>
+
+    <string-array name="mathLink">
+        <item>https://www.youtube.com/watch?v=127MpSs0ZkY</item>
+        <item>https://www.youtube.com/watch?v=9AI3BkKQhn0</item>
+        <item>https://www.youtube.com/watch?v=dXnHGdv0tbo</item>
+        <item>https://www.youtube.com/watch?v=w3GV9pumczQ&amp;vl=en</item>
+        <item>https://www.youtube.com/watch?v=Od7WrjEuTN0</item>
+    </string-array>
+
+    <string-array name="scTitle">
+        <item>Schrödinger\'s Cat</item>
+        <item>Maxwell\'s Demon</item>
+        <item>Dyson Sphere</item>
+        <item>Periodic Table</item>
+        <item>Magnetic Force</item>
+    </string-array>
+
+    <string-array name="scLink">
+        <item>https://www.youtube.com/watch?v=UjaAxUO6-Uw</item>
+        <item>https://www.youtube.com/watch?v=aKRDvSZ-igA</item>
+        <item>https://www.youtube.com/watch?v=jxSY1tsI1NA</item>
+        <item>https://www.youtube.com/watch?v=uPkEGAHo78o</item>
+        <item>https://www.youtube.com/watch?v=dFT7-_s0jh0</item>
+    </string-array>
+
+</resources>
